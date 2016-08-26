@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BackRoom</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty"></string>
+    <string name="empty_message">附近暂时没有可用设备</string>
+    <string name="label_me">我的设备</string>
+    <string name="label_peers">可用设备</string>
+    <string name="my_name">设备名称:</string>
+    <string name="my_status">设备状态:</string>
+    <string name="beginChat">Chat</string>
+    <string name="txt_hint">消息内容</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_back">返回</string>
+</resources>
